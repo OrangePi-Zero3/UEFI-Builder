@@ -1,0 +1,9 @@
+[submodule "Mu-Silicium"]
+	path = Mu-Silicium
+	url = https://github.com/OrangePi-Zero3/Mu-Silicium
+[submodule "thirty"]
+	path = thirty
+	url = https://github.com/OrangePi-Zero3/thirty
+[submodule "arm-trusted-firmware"]
+	path = arm-trusted-firmware
+	url = https://github.com/ARM-software/arm-trusted-firmware/
