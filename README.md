@@ -18,3 +18,9 @@ then to build just run
 ```
 ./build.sh (DEBUG or RELEASE)
 ```
+
+## Guides
+
+- [Installing UEFI](GUIDES/Installing-UEFI.md)
+- [Installing Windows](GUIDES/Installing-Windows.md)
+- [Updating UEFI](GUIDES/Updating-UEFI.md)
